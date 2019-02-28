@@ -1,2 +1,2 @@
 # my_test_programs
-This is repository containing only test programs
+This repository contains only test programs
